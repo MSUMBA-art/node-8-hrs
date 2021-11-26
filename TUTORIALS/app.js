@@ -24,14 +24,9 @@
 //const sayHi = require("./3-utils")
 
  
-//const data = require("./5-alternatives")
-//require("./6-mind-granade")
-//console.log(data);
+// const data = require("./5-alternatives")
+// require("./6-mind-granade")
+// console.log(data);
 // sayHi("Alexander")
 // sayHi(names.alex)
 // sayHi(names.irene)
-
-const path = require("path");
-
-
-console.log(path.sep)
