@@ -31,7 +31,6 @@
 // sayHi(names.alex)
 // sayHi(names.irene)
 
-const path = require("path");
 
+const { readFileSync, writeFileSync } = require("fs")
 
-console.log(path.sep)
